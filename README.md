@@ -17,3 +17,6 @@ Integración con front-end (HTML, CSS, JavaScript) y back-end en PHP.
 
 📌 Estado del proyecto
 Actualmente en desarrollo. Se incluirá gestión de usuarios (CRUD)  y será integrada en una próxima fase.
+
+En cuanto a la documentación del codigo podrá visualizarla en 'Documentación proyecto FireBite'.docx
+
