@@ -1,4 +1,4 @@
-# VIGICAM-Sistema-de-gesti-n-y-control-de-c-maras-IP-ONVIF-PTZ-
+# Proyecto FireBITE
 Proyecto desarrollado para ConnectChile S.A. que permite el control de cámaras IP con protocolo ONVIF, incluyendo funciones PTZ (Pan, Tilt, Zoom), captura de imágenes, visualización en tiempo real de cámaras y front-end de aplicacion web
 
 Contiene lo siguiente:
