@@ -15,8 +15,13 @@ Notificaciones integradas dentro de la vista individual de cámara.
 Conexión con back-end en Python (Flask) para control ONVIF.
 Integración con front-end (HTML, CSS, JavaScript) y back-end en PHP.
 
-📌 Estado del proyecto
-Actualmente en desarrollo. Se incluirá gestión de usuarios (CRUD)  y será integrada en una próxima fase.
+Gestión de usuarios
+Implementación de un sistema CRUD de usuarios (crear, leer, actualizar y eliminar).
+Manejo de roles diferenciados (administrador y operador) con control de permisos.
+Desarrollo de formularios dinámicos con validaciones y estilos personalizados.
+Integración de botones de acción (editar y eliminar) visibles únicamente para administradores.
+Uso de PHP para la lógica de back-end y persistencia de datos.
+Renderizado dinámico de usuarios con JavaScript y actualización en tiempo real.
 
 En cuanto a la documentación del codigo podrá visualizarla en 'Documentación proyecto FireBite'.docx
 
